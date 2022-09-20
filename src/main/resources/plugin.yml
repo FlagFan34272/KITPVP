@@ -1,0 +1,30 @@
+name: KITPVP
+version: '${project.version}'
+main: com.nyaneo.kp.kitpvp.KITPVP
+api-version: 1.18
+commands:
+  swordkit:
+    description:
+
+  classickit:
+    description:
+
+  speedkit:
+    description:
+
+  onlyaxe:
+    description:
+
+  diapot:
+    description:
+
+  classickitnoprotect:
+    description:
+
+  frkit:
+    description:
+
+
+
+
+
