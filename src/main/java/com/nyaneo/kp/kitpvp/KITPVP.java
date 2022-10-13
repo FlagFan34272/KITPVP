@@ -816,7 +816,8 @@ public class KITPVP extends JavaPlugin implements Listener {
 
         return false;
     }
-
+//이거 뭔 생각으로 만들었던거냐도데체 ㅋㅋㅋㅋㅋㅋ
+/**
     @EventHandler
     public void onCD(PlayerDeathEvent e) {
         Player p = e.getPlayer();
@@ -825,5 +826,6 @@ public class KITPVP extends JavaPlugin implements Listener {
             k.getInventory().setItem(5, new ItemStack(Material.ARROW, 7));
         }
     }
+**/
 }
 
